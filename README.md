@@ -1,4 +1,4 @@
 dairy_queen
 ===========
 
-Dumps GPU info
+Dumps GPU info to the terminal.
